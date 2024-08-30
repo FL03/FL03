@@ -1,6 +1,6 @@
 Thank you for stopping by!
 
-While I am a dilettante interested in a myriad of technical subjects at heart, I try and work with rust whenever possible.
+While I am a dilettante interested in a myriad of technical subjects, I almost exlusivley write code in rust but am well-versed in python and familiar with flutter, javascript, solidity, and lean.
 
 ## Currently...
 
