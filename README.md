@@ -1,8 +1,19 @@
+Thank you for stopping by!
 
+While I am a dilettante interested in a myriad of technical subjects at heart, I try and work with rust whenever possible.
 
-## Research
+## Currently...
 
-Currently working on a geometrical approach to computation inspired by the Neo-Riemannian theory of music.
+I am currently focused on exploring the compurational implications of the Neo-Riemannian theory of music. 
+
+## Projects
+
+A majority of my coding is in support of some research that I am currently doing, so many of them are still early in development. That being said, several of my projects are becoming more refined and may be applicable for others.
+
+* [`acme`](https://github.com/FL03/acme): an automatic differentiation tool; sunsetted due to upcoming feature integration
+* [`concision`](https://github.com/FL03/concision): a machine learning toolkit for rust
+* [`rstm`](https://github.com/FL03/rstm): this crate implements concrete abstractions for experiementing with Turing machine models
+* [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
 
 ## Stats
 
