@@ -1,10 +1,10 @@
-_**Welcome to my GitHub!**_
+# About
 
-## About
+_**Welcome to my GitHub!**_
 
 I am a curios dilettante interested in a myriad of technical subjects. I almost exclusively write code in rust, however, am well-versed in python and am familiar with flutter, lean, javascript, and solidity.
 
-### Topics of interest
+## Interests
 
 * Artificial Intelligence
 * Computation
