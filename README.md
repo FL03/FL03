@@ -1,10 +1,16 @@
-Thank you for stopping by!
+_**Welcome to my GitHub!**_
 
-While I am a dilettante interested in a myriad of technical subjects, I almost exlusivley write code in rust but am well-versed in python and familiar with flutter, javascript, solidity, and lean.
+## About
 
-## Currently...
+I am a curios dilettante interested in a myriad of technical subjects. I almost exclusively write code in rust, however, am well-versed in python and am familiar with flutter, lean, javascript, and solidity.
 
-I am currently focused on exploring the compurational implications of the Neo-Riemannian theory of music. 
+### Topics of interest
+
+* Artificial Intelligence
+* Computation
+* Decentalization and Distributed Systems
+* Engineering
+* Mathematics
 
 ## Projects
 
@@ -19,3 +25,6 @@ A majority of my coding is in support of some research that I am currently doing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl03&layout=compact)
 
+***
+
+_**Thank you for stopping by!**_
