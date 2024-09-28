@@ -2,7 +2,7 @@
 
 _**Welcome to my GitHub!**_
 
-I am a curios dilettante interested in a myriad of technical subjects. I almost exclusively write code in rust, however, am well-versed in python and am familiar with flutter, lean, javascript, and solidity.
+I'm a curios dilettante interested in a myriad of technical subjects ranging from artificial intelligence and computer science to pure mathematics, music theory, and more. A majority of my code is written in Rust, however, I also have a strong background in Python and am familiar with the standard web languages (css/html/js) as well as flutter, lean, and solidity. Use any of my code with caution, particularly older projects, as I have long used this platform to help me learn the ins-and-outs of developing software.
 
 ## Interests
 
