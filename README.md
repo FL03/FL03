@@ -23,9 +23,9 @@ A majority of my coding is in support of some research that I am currently doing
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl03&layout=compact)
 
-![Languages](https://api.githubtrends.io/user/svg/FL03/langs?time_range=one_year&include_private=True&theme=dark)
+![Most Used Languages](https://api.githubtrends.io/user/svg/FL03/langs?time_range=one_year&include_private=True&theme=dark)
+
 ***
 
 _**Thank you for stopping by!**_
