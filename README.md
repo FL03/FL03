@@ -17,7 +17,7 @@ I am a self-taught developer specializing in Rust. Currently working on construc
 A majority of my coding is in support of some research that I am currently doing, so many of them are still early in development. That being said, several of my projects are becoming more refined and may be applicable for others.
 
 * [`concision`](https://github.com/FL03/concision): a machine learning toolkit for rust
-* [`eryon`](https://github.com/FL03/eryon): a topological computing system blending music theory and computation 
+* [`eryon`](https://github.com/scattered-systems/eryon): a topological computing system blending music theory and computation 
 * [`rshyper`](https://github.com/FL03/rshyper): A hash-based hypergraph implementation for rust
 * [`rstm`](https://github.com/FL03/rstm): this crate implements concrete abstractions for experiementing with Turing machine models
 * [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
