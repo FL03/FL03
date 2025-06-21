@@ -1,32 +1,35 @@
 # About
 
-_**Welcome to my GitHub!**_
+    Welcome to my GitHub!
 
-I am a self-taught developer specializing in Rust. Currently working on constructing a topological computing system capable of efficiently aggregating resources from any number of devices into a single, cohesive experience. 
+I am a self-taught developer specializing in Rust. Currently working on constructing a topological computing system capable of efficiently aggregating resources from any number of devices into a single, cohesive experience.
 
 ## Interests
 
-* Artificial Intelligence
-* Computation
-* Decentalization and Distributed Systems
-* Engineering
-* Mathematics
+- Artificial Intelligence
+- Computation
+- Decentalization and Distributed Systems
+- Engineering
+- Mathematics
 
 ## Projects
 
-A majority of my coding is in support of some research that I am currently doing, so many of them are still early in development. That being said, several of my projects are becoming more refined and may be applicable for others.
+While I have a number of on-going projects, my primary focus remains on developing out the foundation of a topological computing system. Many of the other projects listed here are either directly related to this goal or are tools I have created to assist in the development process.
 
-* [`concision`](https://github.com/FL03/concision): a machine learning toolkit for rust
-* [`eryon`](https://github.com/scattered-systems/eryon): a topological computing system blending music theory and computation 
-* [`rshyper`](https://github.com/FL03/rshyper): A hash-based hypergraph implementation for rust
-* [`rstm`](https://github.com/FL03/rstm): this crate implements concrete abstractions for experiementing with Turing machine models
-* [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
+- [`eryon`](https://github.com/scattered-systems/eryon): A novel, topological computing system capable of efficiently aggregating resources from registered devices into a single virtual _universe_.
+
+### _Libraries_
+
+- [`concision`](https://github.com/FL03/concision): a machine learning toolkit for rust
+- [`rshyper`](https://github.com/FL03/rshyper): a framework for hypergraphs in Rust, initially focusing on a map-based representation, the `HyperMap`.
+- [`rstm`](https://github.com/FL03/rstm): this crate focuses on providing a set of tools for working with state machines in Rust.
+- [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
+- [`scsys`](https://github.com/scattered-systems/scsys): a collection of core modules for the [scsys.io](https://scsys.io) project, helping standardize the developmental process.
 
 ## Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FL03&show_icons=true&theme=dark)
 
-![Most Used Languages](https://api.githubtrends.io/user/svg/FL03/langs?time_range=one_year&include_private=True&theme=dark)
+## Contact
 
-***
-
-_**Thank you for stopping by!**_
+If you would like to get in touch, feel free to reach out via [email](mailto:j3mccain@gmail.com) or [Twitter](https://x.com/jo3mccain).
