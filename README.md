@@ -26,10 +26,6 @@ While I have a number of on-going projects, my primary focus remains on developi
 - [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
 - [`scsys`](https://github.com/scattered-systems/scsys): a collection of core modules for the [scsys.io](https://scsys.io) project, helping standardize the developmental process.
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FL03&show_icons=true&theme=dark)
-
 ## Contact
 
-If you would like to get in touch, feel free to reach out via [email](mailto:j3mccain@gmail.com) or [Twitter](https://x.com/jo3mccain).
+If you would like to get in touch, feel free to reach out via [email](mailto:joe@pzzld.org) or [Twitter](https://x.com/jo3mccain).
