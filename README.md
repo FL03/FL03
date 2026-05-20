@@ -20,9 +20,9 @@ While I have a number of on-going projects, my primary focus remains on developi
 
 ### _Libraries_
 
-- [`concision`](https://github.com/FL03/concision): a machine learning toolkit for rust
-- [`rshyper`](https://github.com/FL03/rshyper): a framework for hypergraphs in Rust, initially focusing on a map-based representation, the `HyperMap`.
-- [`rstm`](https://github.com/FL03/rstm): this crate focuses on providing a set of tools for working with state machines in Rust.
+- [`concision`](https://github.com/FL03/concision): a native machine-learning crate for rust.
+- [`rshyper`](https://github.com/FL03/rshyper): a crate for creating and manipulating hypergraphs.
+- [`rstm`](https://github.com/FL03/rstm): this crate was developed to explore the nautre of computation with Turing machines.
 - [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
 - [`scsys`](https://github.com/scattered-systems/scsys): a collection of core modules for the [scsys.io](https://scsys.io) project, helping standardize the developmental process.
 
