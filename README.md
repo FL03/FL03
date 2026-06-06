@@ -18,7 +18,11 @@ While I have a number of on-going projects, my primary focus remains on developi
 
 - [`eryon`](https://github.com/scattered-systems/eryon): A novel, topological computing system capable of efficiently aggregating resources from registered devices into a single virtual _universe_.
 
-### _Libraries_
+### _plugins_
+
+- [`shepherd`](https://github.com/FL03/shepherd) - A plugin seeking to enable orchestral elegance within Claude Code sprints.
+
+### _crates_
 
 - [`concision`](https://github.com/FL03/concision): a native machine-learning crate for rust.
 - [`rshyper`](https://github.com/FL03/rshyper): a crate for creating and manipulating hypergraphs.
