@@ -26,8 +26,8 @@ I have a unique blend of interests enabled by my blend of innate curiosity and k
 
 - [`concision`](https://github.com/FL03/concision): This crate is a machine learning SDK for building efficient neural networks 
 - [`rshyper`](https://github.com/FL03/rshyper): a crate for creating and manipulating hypergraphs.
-- [`rstm`](https://github.com/FL03/rstm): this crate was developed to explore the nautre of computation with Turing machines.
-- [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
+- [`rstm`](https://github.com/FL03/rstm): A crate for building finite state machines and Turing machines
+- [`rstmt`](https://github.com/FL03/rstmt): This crates was developed to experiment with music theory, particularly looking into the Neo-Riemannian Theory (i.e. triads, the tonnetz, and LPR transformations).
 - [`scsys`](https://github.com/scattered-systems/scsys): a collection of core modules for the [scsys.io](https://scsys.io) project, helping standardize the developmental process.
 
 ## Contact
