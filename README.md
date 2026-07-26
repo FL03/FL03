@@ -9,7 +9,7 @@ I am a self-taught developer specializing in Rust. Currently working on construc
 I have a unique blend of interests enabled by my blend of innate curiosity and knack for technical subjects:
 
 - Artificial Intelligence - One of my core interests that is, one way or another, supported by my other interests.
-- Abstract Computational Theory - A majority of my own, personal research is dedicated to a delicate blend of mathematics, music theory, and computation.
+- Compute - A majority of my own, personal research is dedicated to a delicate blend of mathematics, music theory, and computation.
 - Decentalization and Distributed Systems
 - Engineering - An engineer's mindset is critical for discovering the solutions to problems we have yet to uncover.
 - Mathematics - A fundamental understanding and appreciation of mathematics empowers me to tackle the abstract with confidence.
