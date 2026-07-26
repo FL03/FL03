@@ -2,7 +2,7 @@
 
     Welcome to my GitHub!
 
-I am a self-taught developer specializing in Rust. Currently working on constructing a topological computing system capable of efficiently aggregating resources from any number of devices into a single, cohesive experience.
+I am a self-taught developer specializing in Rust. Currently working on constructing a topological computing system capable of efficiently aggregating resources from any number of devices into a single, cohesive experience. While I am continually building new applications or services, my primary focus remains on continuing to establish a solid mathematical foundation for my novel topological substrate for orchestrating compute at scale.
 
 ## Interests
 
@@ -14,8 +14,6 @@ I am a self-taught developer specializing in Rust. Currently working on construc
 
 ## Projects
 
-While I have a number of on-going projects, my primary focus remains on developing out the foundation of a topological computing system. Many of the other projects listed here are either directly related to this goal or are tools I have created to assist in the development process.
-
 - [`eryon`](https://github.com/scattered-systems/eryon): A novel, topological computing system capable of efficiently aggregating resources from registered devices into a single virtual _universe_.
 
 ### _plugins_
@@ -24,7 +22,7 @@ While I have a number of on-going projects, my primary focus remains on developi
 
 ### _crates_
 
-- [`concision`](https://github.com/FL03/concision): a native machine-learning crate for rust.
+- [`concision`](https://github.com/FL03/concision): This crate is a machine learning SDK for building efficient neural networks 
 - [`rshyper`](https://github.com/FL03/rshyper): a crate for creating and manipulating hypergraphs.
 - [`rstm`](https://github.com/FL03/rstm): this crate was developed to explore the nautre of computation with Turing machines.
 - [`rstmt`](https://github.com/FL03/rstmt): a crate implementing various musical objects and primitives
@@ -32,4 +30,6 @@ While I have a number of on-going projects, my primary focus remains on developi
 
 ## Contact
 
-If you would like to get in touch, feel free to reach out via [email](mailto:joe@pzzld.org) or [Twitter](https://x.com/jo3mccain).
+Follow me on:
+
+- [Twitter](https://x.com/jo3mccain)
