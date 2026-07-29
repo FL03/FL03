@@ -1,8 +1,4 @@
-# About
-
-    Welcome to my GitHub!
-
-I am a self-taught developer specializing in Rust. Currently working on constructing a topological computing system capable of efficiently aggregating resources from any number of devices into a single, cohesive experience. While I am continually building new applications or services, my primary focus remains on continuing to establish a solid mathematical foundation for my novel topological substrate for orchestrating compute at scale.
+Welcome to my personal GitHub! I am a self-taught developer specializing in Rust with a focus on distributed and topological computation.
 
 ## Interests
 
@@ -10,28 +6,28 @@ I have a unique blend of interests enabled by my blend of innate curiosity and k
 
 - Artificial Intelligence - One of my core interests that is, one way or another, supported by my other interests.
 - Compute - A majority of my own, personal research is dedicated to a delicate blend of mathematics, music theory, and computation.
-- Decentalization and Distributed Systems
+- Decentralization and Distributed Systems
 - Engineering - An engineer's mindset is critical for discovering the solutions to problems we have yet to uncover.
 - Mathematics - A fundamental understanding and appreciation of mathematics empowers me to tackle the abstract with confidence.
 
-## Projects
+## Highlights
 
-- [`eryon`](https://github.com/scattered-systems/eryon): A novel, topological computing system capable of efficiently aggregating resources from registered devices into a single virtual _universe_.
-
-### _plugins_
-
-- [`shepherd`](https://github.com/FL03/shepherd) - A plugin seeking to enable orchestral elegance within Claude Code sprints.
+While I have a seemingly infinite number of on-going projects, my efforts have become increasingly concentrated and are highlighted in the following repositories:
 
 ### _crates_
 
 - [`concision`](https://github.com/FL03/concision): This crate is a machine learning SDK for building efficient neural networks 
-- [`rshyper`](https://github.com/FL03/rshyper): a crate for creating and manipulating hypergraphs.
+- [`rshyper`](https://github.com/FL03/rshyper): A crate for creating, visualizing, analyzing, and otherwise manipulating hyper-graphs.
 - [`rstm`](https://github.com/FL03/rstm): A crate for building finite state machines and Turing machines
 - [`rstmt`](https://github.com/FL03/rstmt): This crates was developed to experiment with music theory, particularly looking into the Neo-Riemannian Theory (i.e. triads, the tonnetz, and LPR transformations).
+
+### _plugins_
+- [`shepherd`](https://github.com/FL03/claude-shepherd) - A self-contained, all-in-one execution and governance plugin enabling a sense of orchestral elegance with self-motivating, self-improving subagents and a custom CLI written to support various sprint operations without impeding the native harness.
+
+## Company
+- [`eryon`](https://github.com/scattered-systems/eryon): A novel, topological computing system capable of efficiently aggregating resources from registered devices into a single virtual _universe_.
 - [`scsys`](https://github.com/scattered-systems/scsys): a collection of core modules for the [scsys.io](https://scsys.io) project, helping standardize the developmental process.
 
 ## Contact
-
 Follow me on:
-
 - [Twitter](https://x.com/jo3mccain)
