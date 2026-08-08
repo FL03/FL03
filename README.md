@@ -22,7 +22,7 @@ While I have a seemingly infinite number of on-going projects, my efforts have b
 - [`rstmt`](https://github.com/FL03/rstmt): This crates was developed to experiment with music theory, particularly looking into the Neo-Riemannian Theory (i.e. triads, the tonnetz, and LPR transformations).
 
 ### _plugins_
-- [`shepherd`](https://github.com/pzzld-org/shepherd) - A self-contained, all-in-one execution and governance plugin enabling a sense of orchestral elegance with self-motivating, self-improving subagents and a custom CLI written to support various sprint operations without impeding the native harness.
+- [`shepherd`](https://github.com/FL03/shepherd) - A self-contained, all-in-one execution and governance plugin enabling a sense of orchestral elegance with self-motivating, self-improving subagents and a custom CLI written to support various sprint operations without impeding the native harness.
 
 ## Company
 Scattered-Systems is a private research company working on building a complete ecosystem empowering users to maximize their available resources
