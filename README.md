@@ -16,7 +16,7 @@ While I have a seemingly infinite number of on-going projects, my efforts have b
 
 ### _crates_
 
-- [`concision`](https://github.com/pzzld-org/concision): This crate is a machine learning SDK for building efficient neural networks 
+- [`concision`](https://github.com/fl03/concision): This crate is a machine learning SDK for building efficient neural networks 
 - [`rshyper`](https://github.com/pzzld-org/rshyper): A crate for creating, visualizing, analyzing, and otherwise manipulating hyper-graphs.
 - [`rstm`](https://github.com/pzzld-org/rstm): A crate for building finite state machines and Turing machines
 - [`rstmt`](https://github.com/pzzld-org/rstmt): This crates was developed to experiment with music theory, particularly looking into the Neo-Riemannian Theory (i.e. triads, the tonnetz, and LPR transformations).
