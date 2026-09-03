@@ -16,10 +16,10 @@ While I have a seemingly infinite number of on-going projects, my efforts have b
 
 ### _crates_
 
-- [`concision`](https://github.com/fl03/concision): This crate is a machine learning SDK for building efficient neural networks 
-- [`rshyper`](https://github.com/pzzld-org/rshyper): A crate for creating, visualizing, analyzing, and otherwise manipulating hyper-graphs.
-- [`rstm`](https://github.com/pzzld-org/rstm): A crate for building finite state machines and Turing machines
-- [`rstmt`](https://github.com/pzzld-org/rstmt): This crates was developed to experiment with music theory, particularly looking into the Neo-Riemannian Theory (i.e. triads, the tonnetz, and LPR transformations).
+- [`concision`](https://github.com/pzzld-org/concision): This crate is a machine learning SDK for building efficient neural networks 
+- [`rshyper`](https://github.com/scattered-systems/rshyper): A crate for creating, visualizing, analyzing, and otherwise manipulating hyper-graphs.
+- [`rstm`](https://github.com/scattered-systems/rstm): A crate for building finite state machines and Turing machines
+- [`rstmt`](https://github.com/scattered-systems/rstmt): This crates was developed to experiment with music theory, particularly looking into the Neo-Riemannian Theory (i.e. triads, the tonnetz, and LPR transformations).
 
 ### _plugins_
 - [`shepherd`](https://github.com/pzzld-org/shepherd) - A self-contained, all-in-one execution and governance plugin enabling a sense of orchestral elegance with self-motivating, self-improving subagents and a custom CLI written to support various sprint operations without impeding the native harness.
